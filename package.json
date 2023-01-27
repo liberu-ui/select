@@ -1,5 +1,5 @@
 {
-  "name": "@enso-ui/select",
+  "name": "@cgdsoftware/select",
   "version": "3.0.18",
   "description": "Select",
   "main": "index.js",
@@ -23,10 +23,10 @@
   },
   "homepage": "https://github.com/enso-ui/select#readme",
   "dependencies": {
-    "@enso-ui/directives": "^2.0",
-    "@enso-ui/dropdown": "^3.0",
-    "@enso-ui/dropdown-indicator": "^2.0",
-    "@enso-ui/search-mode": "^3.0",
+    "@cgdsoftware/directives": "^2.0",
+    "@cgdsoftware/dropdown": "^3.0",
+    "@cgdsoftware/dropdown-indicator": "^2.0",
+    "@cgdsoftware/search-mode": "^3.0",
     "@fortawesome/fontawesome-free": "^5.2.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.2",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
