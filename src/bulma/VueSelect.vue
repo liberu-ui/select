@@ -131,10 +131,10 @@ import { FontAwesomeIcon as Fa } from '@fortawesome/vue-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faCheck }
 from '@fortawesome/free-solid-svg-icons';
-import { focus, clickOutside } from '@enso-ui/directives';
-import { Dropdown, DropdownItem } from '@enso-ui/dropdown/bulma';
-import DropdownIndicator from '@enso-ui/dropdown-indicator';
-import SearchMode from '@enso-ui/search-mode/bulma';
+import { focus, clickOutside } from '@liberu-ui/directives';
+import { Dropdown, DropdownItem } from '@liberu-ui/dropdown/bulma';
+import DropdownIndicator from '@liberu-ui/dropdown-indicator';
+import SearchMode from '@liberu-ui/search-mode/bulma';
 import CoreSelect from '../renderless/CoreSelect.vue';
 import Tag from './Tag.vue';
 
